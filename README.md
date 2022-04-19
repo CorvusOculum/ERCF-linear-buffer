@@ -7,10 +7,15 @@ This is a filament buffer system designed to replace the "caged loops" style of 
 (N refers to the number of channels in your MMU system) 
 
 xN - Buffer Channel Pulley Block
+
 xN - Buffer Channel Top Block
+
 xN - Buffer Channel Pulley
+
 xN - Buffer Channel Pulley Axel
+
 xN - Buffer Channel Bottom Block
+
 xN - Buffer Channel Desiccant Tray
 
 xN - 608 RS "Skateboard" Bearing

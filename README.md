@@ -45,4 +45,12 @@ xN - M3 Heatset Inserts
 
 # Construction
 
-(to follow)
+Your foam board should be cut to the following widths:
+
+For each channel cut the following:
+     2x 25.50mm
+     2x 71.00mm
+     
+The length of these channels should be roughly half the the length of your reverse bowden, but it is wise to add 10%-15% extra just in case. 
+
+(more to follow)

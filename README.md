@@ -47,6 +47,10 @@ I designed this system as a low drag alternative to the Carrot Patch style of bu
     2 x N - PC4-M10 Straight through Pneumatic Fitting
 	      NOTE: MUST BE A THROUGH FITTING!
 
+# Printing
+
+While I printed mine in ABS with the standard Voron recomended profile, you could certainly dial down infill and perimeters and still be fine...  The buffers will not experience very much if any mechanical stress.  
+
 # Construction
 
 Your foam board should be cut using calipers.  Measure the inside of the narrow side of the channel and lock the calipers off.  Then use the calipers to score the foamboad.  Cut carefully with a long metal straightedge.  Do both short sides first, then measure the inside with of the long edge between the two smaller foam board pieces and cut the wider sides.  You want to have the edges of the short side foam board in the corners and not the long sides.  This is important!  The length of these channels should be roughly half the the length of your reverse bowden, but it is wise to add 10%-15% extra just in case.  Usually the foamboard will friction fit and stay in place, however it's a good idea to glue them.
